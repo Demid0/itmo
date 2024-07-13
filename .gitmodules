@@ -1,0 +1,4 @@
+[submodule "1st-semester/full"]
+	path = 1st-semester/full
+	url = https://github.com/Demid0itmo/s1-compscience-full
+	branch = main
