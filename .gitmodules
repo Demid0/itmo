@@ -2,3 +2,7 @@
 	path = 1st-semester/computer-science/full
 	url = https://github.com/Demid0itmo/s1-compscience-full
 	branch = main
+[submodule "2nd-semester/databases/full"]
+	path = 2nd-semester/databases/full
+	url = https://github.com/Demid0itmo/s2-db-full
+	branch = main
