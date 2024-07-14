@@ -26,3 +26,7 @@
 	path = 2nd-semester/programming/lab6
 	url = https://github.com/Demid0itmo/s2-prog-lab6
 	branch = main
+[submodule "2nd-semester/programming/lab7"]
+	path = 2nd-semester/programming/lab7
+	url = https://github.com/Demid0itmo/s2-prog-lab7
+	branch = main
