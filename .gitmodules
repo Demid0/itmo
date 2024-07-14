@@ -18,3 +18,7 @@
 	path = 1st-semester/programming/lab4
 	url = https://github.com/Demid0itmo/s1-prog-lab4
 	branch = main
+[submodule "2nd-semester/programming/lab5"]
+	path = 2nd-semester/programming/lab5
+	url = https://github.com/Demid0itmo/s2-prog-lab5
+	branch = main
