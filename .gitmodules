@@ -58,3 +58,7 @@
 	path = 3rd-semester/programming-languages/lab1
 	url = https://github.com/Demid0itmo/s3-yapi-lab1
 	branch = main
+[submodule "4th-semester/algorithms-and-data-structures/full"]
+	path = 4th-semester/algorithms-and-data-structures/full
+	url = https://github.com/Demid0itmo/s4-algos-full
+	branch = main
