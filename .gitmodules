@@ -82,3 +82,7 @@
 	path = 4th-semester/software-engineering-basics/lab3
 	url = https://github.com/Demid0itmo/s4-opi-lab3
 	branch = main
+[submodule "4th-semester/software-engineering-basics/lab4"]
+	path = 4th-semester/software-engineering-basics/lab4
+	url = https://github.com/Demid0itmo/s4-opi-lab4
+	branch = main
