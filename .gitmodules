@@ -38,3 +38,7 @@
 	path = 1st-semester/professional-activity-basics/lab2
 	url = https://github.com/Demid0itmo/s1-opd-lab2
 	branch = main
+[submodule "3rd-semester/web-programming/lab1"]
+	path = 3rd-semester/web-programming/lab1
+	url = https://github.com/Demid0itmo/s3-web-lab1
+	branch = main
