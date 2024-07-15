@@ -30,3 +30,7 @@
 	path = 2nd-semester/programming/lab7
 	url = https://github.com/Demid0itmo/s2-prog-lab7
 	branch = main
+[submodule "1st-semester/professional-activity-basics/lab1"]
+	path = 1st-semester/professional-activity-basics/lab1
+	url = https://github.com/Demid0itmo/s1-opd-lab1
+	branch = main
