@@ -54,3 +54,7 @@
 	path = 3rd-semester/web-programming/lab4
 	url = https://github.com/Demid0itmo/s3-web-lab4
 	branch = main
+[submodule "3rd-semester/programming-languages/lab1"]
+	path = 3rd-semester/programming-languages/lab1
+	url = https://github.com/Demid0itmo/s3-yapi-lab1
+	branch = main
