@@ -42,4 +42,6 @@
 - [Build automation tools (3rd lab)](https://github.com/Demid0ITMO/s4-opi-lab3)
 - [Profiling and monitoring (4th lab)](https://github.com/Demid0ITMO/s4-opi-lab4)
 
+ ## Databse administration (PostgreSQL):
+- [Getting info about any table (1st lab)](https://github.com/Demid0ITMO/s5-dba-lab1)
  
