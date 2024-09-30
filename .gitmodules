@@ -86,3 +86,7 @@
 	path = 4th-semester/software-engineering-basics/lab4
 	url = https://github.com/Demid0itmo/s4-opi-lab4
 	branch = main
+[submodule "5th-semester/database-administration/lab1"]
+	path = 5th-semester/database-administration/lab1
+	url = https://github.com/Demid0itmo/s5-dba-lab1
+	branch = main
