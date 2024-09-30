@@ -43,4 +43,4 @@
 - [Profiling and monitoring (4th lab)](https://github.com/Demid0ITMO/s4-opi-lab4)
 
 ## Database administration (PostgreSQL):
-- [Getting info about any table (1st lab)](https://github.com/Demid0ITMO/s5-dba-lab1)
+- [Getting info about tables (1st lab)](https://github.com/Demid0ITMO/s5-dba-lab1)
