@@ -44,3 +44,4 @@
 
 ## Databse administration (PostgreSQL):
 - [Getting info about any table (1st lab)](https://github.com/Demid0ITMO/s5-dba-lab1.git)
+  
