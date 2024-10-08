@@ -90,3 +90,7 @@
 	path = 5th-semester/database-administration/lab1
 	url = https://github.com/Demid0itmo/s5-dba-lab1
 	branch = main
+[submodule "5th-semester/functional-programming/lab0"]
+	path = 5th-semester/functional-programming/lab0
+	url = https://github.com/Demid0itmo/s5-fp-lab0
+	branch = main
