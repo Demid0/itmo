@@ -44,3 +44,6 @@
 
 ## Database administration (PostgreSQL):
 - [Getting info about tables (1st lab)](https://github.com/Demid0ITMO/s5-dba-lab1)
+
+## Functional programming:
+- [Selecting language (0th lab)](https://github.com/Demid0ITMO/s5-fp-lab0)
