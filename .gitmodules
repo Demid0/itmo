@@ -106,3 +106,7 @@
 	path = 5th-semester/ai-system/lab3
 	url = https://github.com/Demid0itmo/s5-sisi-lab3
 	branch = main
+[submodule "5th-semester/database-administration/lab2"]
+	path = 5th-semester/database-administration/lab2
+	url = https://github.com/Demid0itmo/s5-dba-lab2
+	branch = main
