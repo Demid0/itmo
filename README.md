@@ -26,6 +26,7 @@
 - [Java Server Pages (2nd lab)](https://github.com/Demid0ITMO/s3-web-lab2)
 - [Java Server Faces (3rd lab)](https://github.com/Demid0ITMO/s3-web-lab3)
 - [Vue + Spring (4th lab)](https://github.com/Demid0ITMO/s3-web-lab4)
+- [Nerdcode (курсач)](https://github.com/Nerds-International/nerd-code-frontend)
 
 ## Optimization methods (Kotlin):
 - [Full course](https://github.com/Demid0ITMO/s4-metop-full)
