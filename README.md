@@ -45,10 +45,11 @@
 
 ## Database administration (PostgreSQL):
 - [Getting info about tables (1st lab)](https://github.com/Demid0ITMO/s5-dba-lab1)
-- [Initializing and configuring database cluster](https://github.com/Demid0ITMO/s5-dba-lab2)
+- [Initializing and configuring database cluster (2nd lab)](https://github.com/Demid0ITMO/s5-dba-lab2)
 
 ## Functional programming:
 - [Selecting language (0th lab)](https://github.com/Demid0ITMO/s5-fp-lab0)
+- [Project Euler (1st lab)](https://github.com/Demid0ITMO/s5-fp-lab1)
 
 ## AI system:
 - [Knowledge base / Ontology (1st lab)](https://github.com/Demid0ITMO/s5-sisi-lab1)
