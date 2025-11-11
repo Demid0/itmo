@@ -57,6 +57,3 @@
 - [Knowledge base / Ontology (1st lab)](https://github.com/Demid0ITMO/s5-sisi-lab1)
 - [Knowledge base assistant (2nd lab)](https://github.com/Demid0ITMO/s5-sisi-lab2)
 - [Linear regression (3rd lab)](https://github.com/Demid0ITMO/s5-sisi-lab3)
-
-## Operation systems:
-- [Shell (1st lab)](https://github.com/Demid0ITMO/s5-osi-lab1)
