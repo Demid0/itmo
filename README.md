@@ -27,6 +27,7 @@
 - [Java Server Faces (3rd lab)](https://github.com/Demid0ITMO/s3-web-lab3)
 - [Vue + Spring (4th lab)](https://github.com/Demid0ITMO/s3-web-lab4)
 - [Nerdcode (курсач)](https://github.com/Nerds-International/nerd-code-frontend)
+- [FinTrack (курсач 2.0)](https://github.com/EskimoCold/web-coursework)
 
 ## Optimization methods (Kotlin):
 - [Full course](https://github.com/Demid0ITMO/s4-metop-full)
@@ -50,8 +51,12 @@
 ## Functional programming:
 - [Selecting language (0th lab)](https://github.com/Demid0ITMO/s5-fp-lab0)
 - [Project Euler (1st lab)](https://github.com/Demid0ITMO/s5-fp-lab1)
+- [User datatype (2nd lab)](https://github.com/Demid0ITMO/s5-fp-lab2)
 
 ## AI system:
 - [Knowledge base / Ontology (1st lab)](https://github.com/Demid0ITMO/s5-sisi-lab1)
 - [Knowledge base assistant (2nd lab)](https://github.com/Demid0ITMO/s5-sisi-lab2)
 - [Linear regression (3rd lab)](https://github.com/Demid0ITMO/s5-sisi-lab3)
+
+## Operation systems:
+- [Shell (1st lab)](https://github.com/Demid0ITMO/s5-osi-lab1)
