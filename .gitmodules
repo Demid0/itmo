@@ -122,3 +122,7 @@
 	path = 5th-semester/data-analytics-basics/lab1
 	url = https://github.com/Demid0itmo/s5-dab-lab1
 	branch = main
+[submodule "5th-semester/data-analytics-basics/lab2"]
+	path = 5th-semester/data-analytics-basics/lab2
+	url = https://github.com/Demid0itmo/s5-dab-lab2
+	branch = main
