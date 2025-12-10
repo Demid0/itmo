@@ -118,3 +118,7 @@
 	path = 5th-semester/functional-programming/lab2
 	url = https://github.com/Demid0itmo/s5-fp-lab2
 	branch = main
+[submodule "5th-semester/data-analytics-basics/lab1"]
+	path = 5th-semester/data-analytics-basics/lab1
+	url = https://github.com/Demid0itmo/s5-dab-lab1
+	branch = main
