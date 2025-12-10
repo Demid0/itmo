@@ -60,5 +60,5 @@
 
 ## Data analytics basics: 
 - [Cleaning and preparing the dataset (1st lab)](https://github.com/Demid0ITMO/s5-dab-lab1.git)
-- [Interpretation of models (2nd lab)](https://github.com/Demid0ITMO/s5-dab-lab1.git)
-- [Data labeling and augmentation (3rd lab)](https://github.com/Demid0ITMO/s5-dab-lab1.git)
+- [Interpretation of models (2nd lab)](https://github.com/Demid0ITMO/s5-dab-lab2.git)
+- [Data labeling and augmentation (3rd lab)](https://github.com/Demid0ITMO/s5-dab-lab3.git)
