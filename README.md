@@ -52,6 +52,7 @@
 - [Selecting language (0th lab)](https://github.com/Demid0ITMO/s5-fp-lab0)
 - [Project Euler (1st lab)](https://github.com/Demid0ITMO/s5-fp-lab1)
 - [User datatype (2nd lab)](https://github.com/Demid0ITMO/s5-fp-lab2)
+- [Streaming data processing (3rd lab)](https://github.com/Demid0ITMO/s5-fp-lab3)
 
 ## AI system:
 - [Knowledge base / Ontology (1st lab)](https://github.com/Demid0ITMO/s5-sisi-lab1)
