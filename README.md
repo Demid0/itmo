@@ -29,13 +29,13 @@
 - [Nerdcode (курсач)](https://github.com/Nerds-International/nerd-code-frontend)
 - [FinTrack (курсач 2.0)](https://github.com/EskimoCold/web-coursework)
 
-## Optimization methods (Kotlin):
+## Optimization methods:
 - [Full course](https://github.com/Demid0ITMO/s4-metop-full)
 
-## Algorithms and Data structures (Kotlin): 
+## Algorithms and Data structures: 
 - [Full course](https://github.com/Demid0ITMO/s4-algos-full)
 
-## Computational Math (Python):
+## Computational Math:
 - [Full course](https://github.com/Demid0ITMO/s4-compmath-full)
 
 ## Software Engineering Basics:
@@ -44,7 +44,7 @@
 - [Build automation tools (3rd lab)](https://github.com/Demid0ITMO/s4-opi-lab3)
 - [Profiling and monitoring (4th lab)](https://github.com/Demid0ITMO/s4-opi-lab4)
 
-## Database administration (PostgreSQL):
+## Database administration (PostgreSQL) DROPPED:
 - [Getting info about tables (1st lab)](https://github.com/Demid0ITMO/s5-dba-lab1)
 - [Initializing and configuring database cluster (2nd lab)](https://github.com/Demid0ITMO/s5-dba-lab2)
 
@@ -63,3 +63,19 @@
 - [Cleaning and preparing the dataset (1st lab)](https://github.com/Demid0ITMO/s5-dab-lab1)
 - [Interpretation of models (2nd lab)](https://github.com/Demid0ITMO/s5-dab-lab2)
 - [Data labeling and augmentation (3rd lab)](https://github.com/Demid0ITMO/s5-dab-lab3)
+
+## Operating systems (Base track):
+- [Full course](https://github.com/Demid0ITMO/s5-osi-full)
+
+## Compilers development:
+- [Full course](https://github.com/Demid0ITMO/s6-compdev-full)
+
+## Systems theory:
+- [Finite state machine (1st lab)](https://github.com/Demid0ITMO/s6-systher-lab1)
+- [Fuzzy sets (2nd lab)](https://github.com/Demid0ITMO/s6-systher-lab2)
+
+## Software testing:
+- [1st lab](https://github.com/Demid0ITMO/s6-tpo-lab1)
+
+## ML basics:
+- [Working with data (1st lab)](https://github.com/Demid0ITMO/s6-ml-lab1)
