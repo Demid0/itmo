@@ -154,3 +154,7 @@
 	path = 6th-semester/systems-theory/lab2
 	url = https://github.com/Demid0itmo/s6-systher-lab2
 	branch = main
+[submodule "6th-semester/software-testing/lab1"]
+	path = 6th-semester/software-testing/lab1
+	url = https://github.com/Demid0itmo/s6-tpo-lab1
+	branch = main
