@@ -138,3 +138,7 @@
 	path = 5th-semester/operating-systems/full
 	url = https://github.com/Demid0itmo/s5-osi-full
 	branch = main
+[submodule "6th-semester/compilers-development/full"]
+	path = 6th-semester/compilers-development/full
+	url = https://github.com/Demid0itmo/s6-compdev-full
+	branch = main
