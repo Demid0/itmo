@@ -1,4 +1,3 @@
-  "message": "Server Error"
 s1-compscience-full: b63420247c6459c98110ac6f2a65f79e22fd134f
 s1-opd-lab1: a8bbf8027358ff71b85eb99becd4b0182b6f7cc1
 s1-opd-lab2: 9add031a9a12cc39c8c1f81b379d413f4898d8cb
@@ -19,7 +18,7 @@ s4-compmath-full: 4d2d3c35c5ec2dd9470ae8336fb647cb32f3696f
 s4-metop-full: 451df4bb9ac26f473f6b4a475f2f4be297676318
 s4-opi-lab1: 83181148a88ce3a296f0be0950c93277e5f4bba5
 s4-opi-lab2: a1212b2087470b0f13a4e90e73e8d6c55e956e57
-s4-opi-lab3: {
+s4-opi-lab3: 8327625fd21006c8431972a512bc3cd5489a1c12
 s4-opi-lab4: dcd4b6ca94bd23b400c1cbf92a3402dc6e0d7ca4
 s5-dab-lab1: 34a76bd7efe1bd621a2b1f81e43465519d7169fc
 s5-dab-lab2: 10c06da67fde2a3a68d6cf2923c00e0c782c117c
@@ -39,4 +38,3 @@ s6-ml-lab1: 6e9a76a77a86185d8fee47815e5f9c5b7af388f3
 s6-systher-lab1: e87c3b69b8303d8c910db1418b68590c4007fe02
 s6-systher-lab2: b3297e673b852ba4f99e31c7ad8c45a2ddebe38e
 s6-tpo-lab1: ba062b84e7ebe50903456c1ce7015fcf037ae780
-}
