@@ -73,9 +73,15 @@
 ## Systems theory:
 - [Finite state machine (1st lab)](https://github.com/Demid0ITMO/s6-systher-lab1)
 - [Fuzzy sets (2nd lab)](https://github.com/Demid0ITMO/s6-systher-lab2)
+- [Markov chains (3rd lab)](https://github.com/Demid0ITMO/s6-systher-lab3)
 
 ## Software testing:
 - [1st lab](https://github.com/Demid0ITMO/s6-tpo-lab1)
+- [2nd lab](https://github.com/Demid0ITMO/s6-tpo-lab2)
 
 ## ML basics:
 - [Working with data (1st lab)](https://github.com/Demid0ITMO/s6-ml-lab1)
+- [Clustering (2nd lab)](https://github.com/Demid0ITMO/s6-ml-lab2)
+- [Association rules (3rd lab)](https://github.com/Demid0ITMO/s6-ml-lab3)
+- [Support vector machines (4th lab)](https://github.com/Demid0ITMO/s6-ml-lab4)
+- [Gradient boosting (5th lab)](https://github.com/Demid0ITMO/s6-ml-lab5)
