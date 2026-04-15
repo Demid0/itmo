@@ -158,3 +158,7 @@
 	path = 5th-semester/database-administration-dropped/lab2
 	url = https://github.com/Demid0itmo/s5-dba-lab2
 	branch = main
+[submodule "6th-semester/ml-basics/lab2"]
+	path = 6th-semester/ml-basics/lab2
+	url = https://github.com/Demid0itmo/s6-ml-lab2
+	branch = main
