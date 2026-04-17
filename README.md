@@ -85,3 +85,6 @@
 - [Association rules (3rd lab)](https://github.com/Demid0ITMO/s6-ml-lab3)
 - [Support vector machines (4th lab)](https://github.com/Demid0ITMO/s6-ml-lab4)
 - [Gradient boosting (5th lab)](https://github.com/Demid0ITMO/s6-ml-lab5)
+
+## Computer networks
+- [1st lab](https://github.com/Demid0ITMO/s6-cn-lab1)
