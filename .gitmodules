@@ -202,3 +202,7 @@
 	path = 6th-semester/ml-basics/lab6
 	url = https://github.com/Demid0itmo/s6-ml-lab6
 	branch = main
+[submodule "6th-semester/ml-basics/lab7"]
+	path = 6th-semester/ml-basics/lab7
+	url = https://github.com/Demid0itmo/s6-ml-lab7
+	branch = main
