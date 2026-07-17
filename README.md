@@ -93,3 +93,6 @@
 - [2nd lab](https://github.com/Demid0ITMO/s6-cn-lab2)
 - [3rd lab](https://github.com/Demid0ITMO/s6-cn-lab3)
 - [4th lab](https://github.com/Demid0ITMO/s6-cn-lab4)
+
+## System administration
+- [Full course](https://github.com/Demid0ITMO/s6-sa-full)
