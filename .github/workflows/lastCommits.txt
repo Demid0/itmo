@@ -1,8 +1,7 @@
-  "message": "Server Error"
 s1-compscience-full: b63420247c6459c98110ac6f2a65f79e22fd134f
 s1-opd-lab1: a8bbf8027358ff71b85eb99becd4b0182b6f7cc1
 s1-opd-lab2: 9add031a9a12cc39c8c1f81b379d413f4898d8cb
-s1-prog-lab2: {
+s1-prog-lab2: 8b39600d27d2542cccd70767e9c5b5d63933280d
 s1-prog-lab3: f115d935727fcadd005d92a97f9d1ab3f050181f
 s1-prog-lab4: 0f80114a337ea37745f8c05b8fb7ce905807b2a7
 s2-db-full: 1367e3be106cdb54770dabd727d5f1f7f1fe4fb1
@@ -52,4 +51,3 @@ s6-systher-lab2: b3297e673b852ba4f99e31c7ad8c45a2ddebe38e
 s6-systher-lab3: 9378ee4a3ef6d49830dca64e6b75f9d89c4f8a30
 s6-tpo-lab1: ba062b84e7ebe50903456c1ce7015fcf037ae780
 s6-tpo-lab2: af9069335e04dc4ec99b91f9d189c33e4bf2c590
-}
