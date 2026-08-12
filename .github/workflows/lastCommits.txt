@@ -3,7 +3,7 @@ s1-opd-lab1: a8bbf8027358ff71b85eb99becd4b0182b6f7cc1
 s1-opd-lab2: 9add031a9a12cc39c8c1f81b379d413f4898d8cb
 s1-prog-lab2: 8b39600d27d2542cccd70767e9c5b5d63933280d
 s1-prog-lab3: f115d935727fcadd005d92a97f9d1ab3f050181f
-s1-prog-lab4: 
+s1-prog-lab4: 0f80114a337ea37745f8c05b8fb7ce905807b2a7
 s2-db-full: 1367e3be106cdb54770dabd727d5f1f7f1fe4fb1
 s2-prog-lab5: 3a85ec3c74c02de7611153bc43231250ac645eda
 s2-prog-lab6: 6b9f44de5aa6194e0e123c2dd10c7ad8417c3989
@@ -12,7 +12,7 @@ s3-web-lab1: 6ebacd0abf7afcb229a55f79cc7efb5622dda286
 s3-web-lab2: 54a389c6aca5ede71921392550f4957d8bd93694
 s3-web-lab3: 4091e26d914aa1793009c4b9a2ecaf5ccdc0378d
 s3-web-lab4: 205d903a790aac8adc1afde01a04f613ac87bed3
-s3-yapi-lab1: 
+s3-yapi-lab1: 0630ddac816be701a6337dd3aab2c437dffbf5d3
 s4-algos-full: 76663b0fba65affcfa971b07aec0b00342dcc694
 s4-compmath-full: 4d2d3c35c5ec2dd9470ae8336fb647cb32f3696f
 s4-metop-full: 451df4bb9ac26f473f6b4a475f2f4be297676318
